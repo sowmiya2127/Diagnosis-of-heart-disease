@@ -1,7 +1,7 @@
 import numpy as np
 import skfuzzy as fuzz
 import matplotlib.pyplot as plt
-
+//smish
 
 # Generate universe variables (Input variables)
 #   * HeartRate, BloodPressure and OutsideTemperature on subjective ranges [0, 10]
